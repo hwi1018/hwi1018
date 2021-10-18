@@ -1,5 +1,5 @@
 ### Coding Playground 👋
-[![Byeonghwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeonghwi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Byeonghwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeonghwi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
