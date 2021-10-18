@@ -1,7 +1,10 @@
 ### Coding Playground 👋
-[![Byeonghwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeonghwi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeonghwi&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="" target="_blank"><img src="https://img.shields.io/badge/.NET-#239120?style=social&logo=appveyor&logoColor=white"/></a>
+
+[![Byeonghwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwi1018&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwi1018&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 
