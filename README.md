@@ -1,7 +1,7 @@
 ### Coding Playground 👋
 [![Byeonghwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeonghwi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byeonghwi&repo=github-readme-stats)](https://github.com/hwi1018/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeonghwi)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 
