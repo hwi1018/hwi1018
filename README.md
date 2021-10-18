@@ -1,6 +1,6 @@
 ### Coding Playground 👋
 
-<img src="https://img.shields.io/badge/C#-#239120?style=flat-square&logo=csharp&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C#-#239120?style=flat-square&logo=CSharp&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 
 <!--
