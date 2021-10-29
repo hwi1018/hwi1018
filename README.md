@@ -1,6 +1,5 @@
 ### Coding Playground 👋
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/.NET-#239120?style=social&logo=appveyor&logoColor=white"/></a>
 
 [![Byeonghwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwi1018&show_icons=true&theme=tokyonight)](https://github.com/hwi1018/github-readme-stats)
 
