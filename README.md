@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=appveyor&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/.Net-148EFF?style=flat-square&logo=appveyor&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/C/C++-26689A?style=flat-square&logo=appveyor&logoColor=black"/></a>
 
 
 
