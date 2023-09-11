@@ -1,5 +1,10 @@
-### Coding Playground 👋
-### C/C++, C#, Python
+<div align=center>
+  ### 👋 Introduction 👋
+  유능한 개발자가 되고 싶습니다!
+
+  ### C/C++, C#, Python
+</div>
+
 
 [![Byeonghwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwi1018&show_icons=true&theme=tokyonight)](https://github.com/hwi1018/github-readme-stats)
 
@@ -9,7 +14,7 @@
 <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=appveyor&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/.Net-148EFF?style=flat-square&logo=appveyor&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 
 
 
