@@ -25,4 +25,4 @@
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hwi1018)](https://solved.ac/twi1018)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=twi1018)](https://solved.ac/twi1018)<br/>
